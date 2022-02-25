@@ -1,6 +1,6 @@
 ### Hello World! Nice to see you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-I’m <b>Gilar Purwita Subagja</b>, an <b>Android Developer</b> from <a href="https://en.wikipedia.org/wiki/Indonesia" target="_blank"><b>Indonesia</b> <img align="left" alt="Indonesia's Flag" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/icons/indonesia.png"/></a>. Currently, I work for <a href="https://web.42race.com/"><b>42Race</b> <img align="left" alt="42Race's Logo" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/icons/42race.png"/></a> from <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank">Singapore <img align="left" alt="Singapore's Flag" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/icons/singapore.png"/></a>, specializing in <b>Java</b> and <b>Kotlin</b> for native Android development. In addition to native Android development, I have a good knowledge in <b>Dart (Flutter)</b> and <b>Backend Development</b>. I also always curious to explore and try new things.
+I’m <b>Gilar Purwita Subagja</b>, an <b>Android Developer</b> from <a href="https://en.wikipedia.org/wiki/Indonesia" target="_blank"><b>Indonesia</b> <img align="left" alt="Indonesia's Flag" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/indonesia.png"/></a>. Currently, I work for <a href="https://web.42race.com/"><b>42Race</b> <img align="left" alt="42Race's Logo" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/42race.png"/></a> from <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank">Singapore <img align="left" alt="Singapore's Flag" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/singapore.png"/></a>, specializing in <b>Java</b> and <b>Kotlin</b> for native Android development. In addition to native Android development, I have a good knowledge in <b>Dart (Flutter)</b> and <b>Backend Development</b>. I also always curious to explore and try new things.
 
 - 👯 I’m looking to collaborate
 - 💬 Ask me about anything, i am happy to help.
@@ -22,14 +22,14 @@ I’m <b>Gilar Purwita Subagja</b>, an <b>Android Developer</b> from <a href="ht
 
 
 **Stay Connected!**  
-<a href="https://www.instagram.com/gilarps/">
-  <img align="left" alt="Gilar's Instagram" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/icons/social/instagram.png" />
+<a href="https://www.instagram.com/gilarps/" target="_blank">
+  <img align="left" alt="Gilar's Instagram" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/social/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/gilarps/">
-  <img align="left" alt="Gilar's Linkedin" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/icons/social/linkedin.png" />
+<a href="https://www.linkedin.com/in/gilarps/" target="_blank">
+  <img align="left" alt="Gilar's Linkedin" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/social/linkedin.png" />
 </a>
-<a href="https://gilarps.medium.com/">
-  <img align="left" alt="Gilar's Medium" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/icons/social/medium.jpeg" />
+<a href="https://gilarps.medium.com/" target="_blank">
+  <img align="left" alt="Gilar's Medium" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/social/medium.jpeg" />
 </a>
 
 <!---
