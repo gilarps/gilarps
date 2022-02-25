@@ -33,6 +33,9 @@ I’m <b>Gilar Purwita Subagja</b>, an <b>Android Developer</b> from <a href="ht
 <a href="https://gilarps.medium.com/" target="_blank">
   <img align="left" alt="Gilar's Medium" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/social/medium.jpeg" />
 </a>
+<a href="mailto:gilarpurwita@gmail.com" target="_blank">
+  <img align="left" alt="Gilar's Medium" width="22px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/social/gmail.png" />
+</a>
 
 <!---
 gilarps/gilarps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
