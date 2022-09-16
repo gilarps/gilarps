@@ -3,7 +3,7 @@
 I’m <b>Gilar Purwita Subagja</b>, a <b>Mobile Developer</b> from <a href="https://en.wikipedia.org/wiki/Indonesia" target="_blank"><b>Indonesia</b> <img alt="Indonesia's Flag" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/indonesia.png"/></a>. Currently, I work for <a href="https://web.42race.com/"><b>42Race</b> <img alt="42Race's Logo" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/42race.png"/></a> from <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank">Singapore <img alt="Singapore's Flag" width="13px" src="https://raw.githubusercontent.com/gilarps/gilarps/main/icons/singapore.png"/></a> as an Android Developer. I am expert in <b>Java</b> and <b>Kotlin</b> for native Android development. In addition to native Android development, I have a good knowledge in <b>Dart (Flutter)</b> and <b>Backend Development</b>. I also always curious to explore and try new things.
 
 - 👯 I’m looking to collaborate
-- 💬 Ask me about anything, i am happy to help.
+- 💬 Ask me about anything, I am happy to help.
 
 **Languages and Tools:**  
 
